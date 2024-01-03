@@ -8,12 +8,12 @@
 </div>
 </ul>
 <h1>Languages</h1>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JAVASCRIPT</li>
-  <li>JAVA</li>
-  <li>C</li>
+<ul type="none">
+  <li>&#x1F4D8;HTML</li>
+  <li>&#x1F4D7;CSS</li>
+  <li>&#x1F4D9;JAVASCRIPT</li>
+  <li>&#x1F4D9;JAVA</li>
+  <li>&#x1F4D8;C</li>
 </ul>
 
 <!---
