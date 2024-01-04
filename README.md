@@ -1,4 +1,4 @@
-<h1 align="center">About me </h1>
+<h1 align="center"><i>About me</i> </h1>
 <ul type="disc">
 <li>👋 Hi, I’m @HemantSingh2070.</li>
 <li>👀 I’m interested in programing.</li> 
@@ -7,7 +7,7 @@
 <li>📫 How to reach me emai id Hemantsingh2070@gmail.com</li>
 </div>
 </ul>
-<h1 align="center">Languages</h1>
+<h1 align="center"><i>Languages</i></h1>
 <ul type="none">
   <li>&#x1F4D8;HTML</li>
   <li>&#x1F4D7;CSS</li>
