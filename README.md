@@ -15,6 +15,7 @@
   <li>&#x1F4D9;JAVA</li>
   <li>&#x1F4D8;C</li>
 </ul>
+<div > <a> <img src="https://github-readme-stats.vercel.app/api?username=HemantSingh2070&theme=darcula&show_icons=true&hide_border=false&count_private=true"></a> </div>
 
 <!---
 HemantSingh2070/HemantSingh2070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
