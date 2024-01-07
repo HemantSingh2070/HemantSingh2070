@@ -1,4 +1,9 @@
-
+<!---
+HemantSingh2070/HemantSingh2070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<div>
+  <div align="center"><img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cx8kjsj828lov3dj90r8zdd5p6tgxepvotwq0znb&ep=v1_gifs_search&rid=giphy.gif&ct=g" ></div>
 
 <div align="center"> <a> <img src="https://github-readme-stats.vercel.app/api?username=HemantSingh2070&theme=darcula&show_icons=true&hide_border=false&count_private=true"></a> </div>
 <br>
@@ -15,7 +20,9 @@
 <li>💞️ I’m looking to collaborate on small projects.</li> 
 <li>📫 Hemantsingh2070@gmail.com</li>
 </ul>
-<!---
-HemantSingh2070/HemantSingh2070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HemantSingh2070&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
